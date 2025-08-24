@@ -7,5 +7,8 @@
   },
   "author": "AxelitoDj",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "sass": "^1.90.0"
+  }
 }

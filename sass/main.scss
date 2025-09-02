@@ -1,12 +1,17 @@
 @import 'abstract/variables';
 @import 'abstract/functions';
 @import 'abstract/mixins';
+
 @import 'components/button';
 @import 'components/composition';
+@import 'components/feature-box';
+
 @import 'layout/_header';
 @import 'layout/grid';
+
 @import 'bases/typography';
 @import 'bases/animation';
 @import 'bases/utilities';
 @import 'bases/bases';
+
 @import 'pages/home';
